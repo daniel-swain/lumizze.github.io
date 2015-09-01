@@ -7,3 +7,7 @@ baseurl: "/blog"
 url: "http://wisard1862.github.io"
 twitter_username: danieswain
 github_username:  wisard1862
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
