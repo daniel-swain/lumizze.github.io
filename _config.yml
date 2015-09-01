@@ -1,0 +1,9 @@
+# Site settings
+title: The Best Site Ever
+email: danieswain@gmail.com
+description: >
+  Daniel Swain Jr's (wisard1862) github web page.
+baseurl: "/blog" 
+url: "http://wisard1862.github.io"
+twitter_username: danieswain
+github_username:  wisard1862
