@@ -2,11 +2,11 @@
 title: The Best Site Ever
 email: danieswain@gmail.com
 description: >
-  Daniel Swain Jr's (wisard1862) github web page.
+  Daniel Swain Jr's (lumizze) github web page.
 baseurl: "/blog" 
-url: "http://wisard1862.github.io"
+url: "http://lumizze.github.io"
 twitter_username: danieswain
-github_username:  wisard1862
+github_username:  lumizze
 
 # Build settings
 markdown: kramdown
